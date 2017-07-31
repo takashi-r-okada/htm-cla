@@ -1,0 +1,9 @@
+*.pyc
+*.wav
+*.spc
+*.flac
+*.png
+*.log
+*.txt
+*.mp3
+*.sublime-workspace
